@@ -38,7 +38,6 @@ The readings, exercises, and seminar discussions will stress how work in compute
 During exhibition, students will be expected to share work that responds to these questions and more, through digital or tactile media. Through this work they will also be expected to assume a position (if you will) on the spectrum of representation and speculation.  
 
 ## DOCUMENTATION
-
 Complete documentation of process and final project is required. All final files must be uploaded to GitHub by Monday, March 23. Minimum requirements:
 
 * Summary of work according to provided template
@@ -47,6 +46,33 @@ Complete documentation of process and final project is required. All final files
 * Working files used to create your project 
 
 Note: Save images as 72 ppi jpeg, min. 3600 pixels in one dimension, maximum quality 10 or above
+
+## MATERIALS
+Each student should have access to a computer. If possible (but not required), students should bring the following to meetings: 
+
+* A laptop (Windows, OSX, or Linux)
+* A camera (a DSLR with an SD card, if possible)
+
+Students are also encouraged to install the following on their machines: 
+
+* Agisoft PhotoScan 1.1.3, http://www.agisoft.com/downloads/installer/
+* Git, http://git-scm.com/downloads
+
+They should also create an account with https://github.com/, if they have not already.  
+
+During the week, they may be asked to work with additional software and languages, such as Rhino, SketchUp, and Python, in which case they will be given additional instruction.  
+
+## DRAFT SCHEDULE 
+* **Monday 9:30-10:30**: Introductions; Discussion of Syllabus and Schedule
+* **Monday, 10:30-11:30**: Computer Vision as Culture + Technique
+* **Monday, 2-6**: Gentle Introduction to Git, GitHub, and Markdown  
+* **Tuesday, 9-12**: Introduction to Photoscan 
+* **Tuesday, 2-6**: Experimenting with Photoscan (may include some Python programming)
+* **Wednesday, 9-12**: Fieldwork with Various Cameras 
+* **Wednesday, 2-6**: Processing Image Sets  
+* **Thursday, 9-12**: Sharing and Discussing Results 
+* **Thursday, 2-6**: Preparing the Final Show 
+* **Friday, 9-2**: Prepping and Setting Up the Final Show
 
 ## RECOMMENDED READINGS
 * Arnall, Timo. 2012. *Robot Readable World*. https://vimeo.com/36239715.
@@ -80,30 +106,3 @@ https://web.media.mit.edu/~minsky/papers/Frames/frames.html.
 * ———. 2012. “An Essay on the New Aesthetic.” *Wired*. April 2. 
 http://www.wired.com/2012/04/an-essay-on-the-new-aesthetic/.
 * Szeliski, Richard. 2010. *Computer Vision: Algorithms and Applications*. Springer Science & Business Media.
-
-## MATERIALS
-Each student should have access to a computer. If possible (but not required), students should bring the following to meetings: 
-
-* A laptop (Windows, OSX, or Linux)
-* A camera (a DSLR with an SD card, if possible)
-
-Students are also encouraged to install the following on their machines: 
-
-* Agisoft PhotoScan 1.1.3, http://www.agisoft.com/downloads/installer/
-* Git, http://git-scm.com/downloads
-
-They should also create an account with https://github.com/, if they have not already.  
-
-During the week, they may be asked to work with additional software and languages, such as Rhino, SketchUp, and Python, in which case they will be given additional instruction.  
-
-## DRAFT SCHEDULE 
-* **Monday 9:30-10:30**: Introductions; Discussion of Syllabus and Schedule
-* **Monday, 10:30-11:30**: Computer Vision as Culture + Technique
-* **Monday, 2-6**: Gentle Introduction to Git, GitHub, and Markdown  
-* **Tuesday, 9-12**: Introduction to Photoscan 
-* **Tuesday, 2-6**: Experimenting with Photoscan (may include some Python programming)
-* **Wednesday, 9-12**: Fieldwork with Various Cameras 
-* **Wednesday, 2-6**: Processing Image Sets  
-* **Thursday, 9-12**: Sharing and Discussing Results 
-* **Thursday, 2-6**: Preparing the Final Show 
-* **Friday, 9-2**: Prepping and Setting Up the Final Show
