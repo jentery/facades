@@ -89,7 +89,7 @@ Each student should have access to a computer. If possible (but not required), s
 
 Students are also encouraged to install the following on their machines: 
 
-* Agisoft Photoscan 1.1.3, http://www.agisoft.com/downloads/installer/
+* Agisoft PhotoScan 1.1.3, http://www.agisoft.com/downloads/installer/
 * Git, http://git-scm.com/downloads
 
 They should also create an account with https://github.com/, if they have not already.  
