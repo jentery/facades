@@ -1,28 +1,25 @@
 # READING FAÇADES: INTEGRATING HUMAN AND COMPUTER VISION
-ARCH 5110: ARCHITECTURE AS CATALYST | MARCH 9 - MARCH 13, 2015
+ARCH 5110: Architecture as Catalyst | March 9-13, 2015 | U. of Minnesota
 
 ## INSTRUCTORS
 Guest Instructor: Jentery Sayers, Assistant Professor, English and Social, Cultural, and Political Thought; Director, Maker Lab in the Humanities, University of Victoria
 
 Faculty Instructor:  Andrea J. Johnson, AIA, LEED BD+C, Assistant Professor, UMN School of Architecture
 
-## ONLINE REPOSITORY OF MATERIALS 
-[github.com/jentery/facades](https://github.com/jentery/facades)
-
 ## COURSE DESCRIPTION
 This Catalyst workshop explores the intersections of human and computer vision in the construction of three-dimensional space. How does the emergence of computer vision, or machine phenomenology, inform our interpretations of the built environment? How can the face or exterior of a building be detected, organized, and understood?  Instead of approaching human and computer vision in a binary fashion, how might they be blended to ask questions about society, technology, and design? 
 
 In this workshop, we will combine image capture, computer programming, and physical computing techniques with object-detection frameworks in order to not only expand existing perceptions of built environments but also consider the relevance of computer vision to building facade design, archiving, and analysis. Here, the affordances of computer vision to systematically, superficially, and rapidly detect, stitch, and model 3D objects will prove informative. These affordances will be combined with critical studies of algorithms and computational culture. Students will participate in hands-on, introductory workshops on Python, Git, photogrammetry, and image processing. No previous experience in these areas will be assumed. 
 
-## TEACHING FORMAT
-Foundational lectures to introduce topics; workshops for skill-building; studio sessions with project critiques. 
+## FORMAT
+Foundational lectures to introduce topics; workshops for skill-building; studio sessions with project critiques; seminar discussion
 
-## COURSE OBJECTIVES
+## OBJECTIVES
 1. Approach computer vision as a technical and cultural matter, through a combination of theory and practice. 
 2. Build 3D models with repositories of 2D images. 
 3. Construct, describe, archive, and share image repositories using distributed version control. 
 4. Consider the relevance of computer programming (e.g., in Python) to the representation and expression of 3D space. 
-5. Experiment with computer vision on across a spectrum of realist representation and speculative expression.  
+5. Experiment with computer vision across a spectrum of realist representation and speculative expression.  
 
 ## COURSE TOPICS
 * Computer Vision: methods for acquiring, processing, analyzing, and understanding images
@@ -93,7 +90,7 @@ Each student should have access to a computer. If possible (but not required), s
 Students are also encouraged to install the following on their machines: 
 
 * Agisoft Photoscan 1.1.3, http://www.agisoft.com/downloads/installer/
-* Git, http://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+* Git, http://git-scm.com/downloads
 
 They should also create an account with https://github.com/, if they have not already.  
 
@@ -110,10 +107,3 @@ During the week, they may be asked to work with additional software and language
 * **Thursday, 9-12**: Sharing and Discussing Results 
 * **Thursday, 2-6**: Preparing the Final Show 
 * **Friday, 9-2**: Prepping and Setting Up the Final Show
-
-
-
-
-
-
-
