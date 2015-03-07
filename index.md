@@ -21,7 +21,7 @@ Foundational lectures to introduce topics; workshops for skill-building; studio 
 4. Consider the relevance of computer programming (e.g., in Python) to the representation and expression of 3D space. 
 5. Experiment with computer vision across a spectrum of realist representation and speculative expression.  
 
-## COURSE TOPICS
+## KEYWORDS
 * Computer Vision: methods for acquiring, processing, analyzing, and understanding images
 * Object Recognition: task of finding and identifying objects in an image or video sequence
 * Photogrammetry: taking measurements from photos to determine locations of surface points
