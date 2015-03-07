@@ -6,7 +6,7 @@ Guest Instructor: Jentery Sayers, Assistant Professor, English and Social, Cultu
 
 Faculty Instructor:  Andrea J. Johnson, AIA, LEED BD+C, Assistant Professor, UMN School of Architecture
 
-## COURSE DESCRIPTION
+## DESCRIPTION
 This Catalyst workshop explores the intersections of human and computer vision in the construction of three-dimensional space. How does the emergence of computer vision, or machine phenomenology, inform our interpretations of the built environment? How can the face or exterior of a building be detected, organized, and understood?  Instead of approaching human and computer vision in a binary fashion, how might they be blended to ask questions about society, technology, and design? 
 
 In this workshop, we will combine image capture, computer programming, and physical computing techniques with object-detection frameworks in order to not only expand existing perceptions of built environments but also consider the relevance of computer vision to building facade design, archiving, and analysis. Here, the affordances of computer vision to systematically, superficially, and rapidly detect, stitch, and model 3D objects will prove informative. These affordances will be combined with critical studies of algorithms and computational culture. Students will participate in hands-on, introductory workshops on Python, Git, photogrammetry, and image processing. No previous experience in these areas will be assumed. 
