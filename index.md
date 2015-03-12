@@ -74,6 +74,15 @@ During the week, they may be asked to work with additional software and language
 * **Thursday, 2-6**: Preparing the Final Show 
 * **Friday, 9-2**: Prepping and Setting Up the Final Show
 
+## GITHUB REPOSITORIES
+
+* George, https://github.com/KilluaHxH/Catalyst
+* Chris, https://github.com/Christopheralph/Catalyst15
+* Erica, https://github.com/schw1309
+* Sam, https://github.com/daley045/Catalyst-2015
+* Dustin, https://github.com/schip062/Catalyst
+* Jeremy, https://github.com/jbernardy42/JBCatalyst2015
+
 ## RECOMMENDED READINGS
 * Arnall, Timo. 2012. *Robot Readable World*. https://vimeo.com/36239715.
 * Backes, Martin. 2010. “New Artwork: Pixelhead.” Martin Backes - Official Website. http://www.martinbackes.com/new-artwork-pixelhead/.
