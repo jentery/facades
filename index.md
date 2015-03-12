@@ -78,7 +78,8 @@ During the week, they may be asked to work with additional software and language
 
 * George, https://github.com/KilluaHxH/Catalyst
 * Chris, https://github.com/Christopheralph/Catalyst15
-* Erica, https://github.com/schw1309
+* Erica, https://github.com/schw1309/Catalyst
+* Xian, https://github.com/huxxx832/
 * Sam, https://github.com/daley045/Catalyst-2015
 * Dustin, https://github.com/schip062/Catalyst
 * Jeremy, https://github.com/jbernardy42/JBCatalyst2015
